@@ -1,0 +1,28 @@
+ul.cont-amigo {
+  background-color: #483d8b;
+  border-radius: 5%;
+  color: white;
+  font-weight: bold;
+  margin-left: 15px;
+}
+.btn {
+  background-color: #483d8b;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.li-persona {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.fa-star {
+  display: inline;
+}
+.desaparecido {
+  display: none;
+}
+
+form {
+  margin-bottom: 15px;
+}
