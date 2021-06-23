@@ -13,6 +13,9 @@ function App() {
 
   const numerodeEstrellas = (num) => {
     const arrayDummy = new Array(num);
+    for (let i = 0; i < num; i++) {
+      arrayDummy.push("name");
+    }
     return (
       <>
         {arrayDummy.map(() => (
